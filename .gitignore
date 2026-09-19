@@ -1,0 +1,13 @@
+# Reference files copied from your own camera (personal photos/videos).
+# Each user creates these from their own card — see "Reference files" in the README.
+ref/
+
+# Conversion output (the README examples use --out out)
+out/
+
+# macOS
+.DS_Store
+._*
+
+# Local tooling state
+.omc/
