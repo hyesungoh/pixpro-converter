@@ -1,3 +1,5 @@
+![pixpro-converter — your phone's photos, on your PIXPRO's screen](public/banner.jpg)
+
 # pixpro-converter
 
 **A macOS command-line tool that converts modern photos and videos into the format a Kodak PIXPRO FZ55 expects — so the pictures on your phone show up on the camera's own screen.**
